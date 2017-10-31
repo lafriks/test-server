@@ -1,2 +1,3 @@
 # test-server
-Super simple static server for testing
+Super simple static server for testing with CORS support
+
